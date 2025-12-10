@@ -1,16 +1,23 @@
 # flutter_supabase
 
-A new Flutter project.
+Nama : Mison Wenda
+NIM  : 1123150103
+Jurusan : Teknik Informatika
+Konsentrasi : Software Engineering
+matkuliah : Mobile App
 
-## Getting Started
+## Aplikasi yang di Gunakan
 
-This project is a starting point for a Flutter application.
+Visual Studio Code
+Supabase
+Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## File Projek Ada Pada Folder flutter_supabase
+lib 
+pages
+  - home_page.dart
+- main.dart 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Hasil Screenshot Aplikasi   
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](image.png)
