@@ -19,6 +19,8 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: 'supabase foto',
       home: MyHomePage(),
+      debugShowCheckedModeBanner: false,
     );
+    
   }
 }
